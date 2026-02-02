@@ -8,9 +8,7 @@
 </div>
 <hr></hr>
 
-<div align="left" width="50">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Git and Data Structure
 - 💬 Ask me about Frontend Development and Java
 - 📫 How to reach me on Instagram: [...](https://www.instagram.com/omarelgazzarx/)
-</div>
