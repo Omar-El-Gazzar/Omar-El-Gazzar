@@ -1,5 +1,8 @@
 ## Hi there 👋
-**Omar-El-Gazzar/Omar-El-Gazzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+
+I'm a passionate software developer focused on building scalable, clean, and maintainable applications.  
+I enjoy turning complex problems into elegant solutions and continuously improving my craft through real-world projects.
 
 <div align="center" width="50">
 
@@ -12,3 +15,19 @@
 - 🌱 I’m currently learning Git and Data Structure
 - 💬 Ask me about Frontend Development and Java
 - 📫 How to reach me on Instagram: [...](https://www.instagram.com/omarelgazzarx/)
+
+## 🛠 Tech Stack
+
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+
+**Tools & Platforms**
+- Git & GitHub
+
+## ✨ Features
+
+- Clean, responsive, and modern UI
+- Well-structured and maintainable codebase
+- Performance-focused implementation
+- Real-world production practices
+- Cross-browser compatibility
